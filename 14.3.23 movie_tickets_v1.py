@@ -15,5 +15,5 @@ def sell_ticket():
     total_sales = 0
 
 
-#Main routine
+# Main routine
 sell_ticket()
