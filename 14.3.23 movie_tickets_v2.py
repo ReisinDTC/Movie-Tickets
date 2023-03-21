@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """Movie theatre ticketing system - v2
 Get the category and number of tickets required
 Created by Reid Allison
@@ -36,7 +35,6 @@ def sell_ticket():
 
 # Main routine
 sell_ticket()
-=======
 """Movie theatre ticketing system - v2
 Get the category and number of tickets required
 Created by Reid Allison
@@ -74,4 +72,3 @@ def sell_ticket():
 
 # Main routine
 sell_ticket()
->>>>>>> 9be2823b1884605c03c563687bbc0dc7033fab33
